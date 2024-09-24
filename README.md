@@ -5,6 +5,9 @@ This repository is all about different Power BI dashboard build using Power BI d
 ## Project 1 : E-Commerce Sales Analysis for Skincare & Beauty Products
 
 <p>This project involves the analysis of e-commerce sales data, focused on skincare and beauty products. The dataset covers various categories such as body care, face care, hair care, and makeup, with detailed insights on sales, profits, and customer demographics across multiple regions. 
+ 
+![image](https://github.com/user-attachments/assets/5b2f0029-2586-4bcc-bda0-b8be216a930a)
+
 
  </p>
 
