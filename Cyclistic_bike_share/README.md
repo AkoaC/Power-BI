@@ -4,9 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/0f3b747d-d953-4291-8e9e-7730d74e9612)
 
-# Bike sharing analysis 🚴‍♂️
-
-## 📊 **Key figures**
+## **Key figures**
 
 - **Total number of trips**: 5.7 million
 - **Average trip duration**: 18.17 minutes
@@ -25,7 +23,7 @@
 
 ---
 
-## 💡 **Hypotheses and recommendations**
+## **Hypotheses and recommendations**
 
 1. **Seasonal optimization**:
 - Increase maintenance capacity and bike availability in summer.
