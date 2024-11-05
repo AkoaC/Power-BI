@@ -4,31 +4,30 @@
 
 ## 📊 **Key figures**
 
-- Annual sales (CY)**: €6.5M
-- Annual profit (CY)**: €1.1M (16.3% profit margin)
-- Total customers**: 17,000
-- Total discount**: €7.33K
+- Annual sales (CY) : €6.5M
+- Annual profit (CY) : €1.1M (16.3% profit margin)
+- Total customers : 17,000
+- Total discount : €7.33K
 
 ### Sales by category:
-- Body care**: €2.7M
-- Home & Accessories**: €1.2M
-- Make-up**: €1.1M
-- Haircare**: €1.0M
-- Facial care**: €0.4M
+- Body care : €2.7M
+- Home & Accessories : €1.2M
+- Make-up : €1.1M
+- Haircare : €1.0M
+- Facial care : €0.4M
 
 ### Sales by market:
-- Asia-Pacific**: €1.8M
-- Europe**: €1.5M
-- USCA (United States and Canada)**: €1.4M
-- LATAM (Latin America)**: €1.3M
-- Africa**: €0.5M
+- Asia-Pacific : €1.8M
+- Europe : €1.5M
+- USCA (United States and Canada) : €1.4M
+- LATAM (Latin America) : €1.3M
+- Africa : €0.5M
 
 ### Breakdown by segment:
-- Corporate**: 58.9
-- Consumers**: 32.9
-- Self-employed**: 8.1
+- Corporate : 58.9
+- Consumers : 32.9
+- Self-employed: 8.1
 
----
 
 ## 💡 **Hypotheses and Recommendations
 
