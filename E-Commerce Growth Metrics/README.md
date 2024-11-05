@@ -2,7 +2,7 @@
 
 <p>This project involves the analysis of e-commerce sales data, focused on skincare and beauty products. The dataset covers various categories such as body care, face care, hair care, and makeup, with detailed insights on sales, profits, and customer demographics across multiple regions.  </br>
 
-## 📊 **Key figures**
+## **Key figures**
 
 - Annual sales (CY) : €6.5M
 - Annual profit (CY) : €1.1M (16.3% profit margin)
@@ -29,7 +29,7 @@
 - Self-employed: 8.1
 
 
-## 💡 **Hypotheses and Recommendations
+## **Hypotheses and Recommendations**
 
 1. **Increase Sales of Popular Products** :
 - Highlight top-selling products such as **Herbal Essences Bio** (€67,640 turnover) and **Head & Shoulders** (€16,058 turnover) in promotional campaigns to boost sales.
