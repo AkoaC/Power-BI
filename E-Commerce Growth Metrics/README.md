@@ -2,45 +2,44 @@
 
 <p>This project involves the analysis of e-commerce sales data, focused on skincare and beauty products. The dataset covers various categories such as body care, face care, hair care, and makeup, with detailed insights on sales, profits, and customer demographics across multiple regions.  </br>
 
-## 📊 **Chiffres Clés**
+## 📊 **Key figures**
 
-- **Chiffre d'affaires annuel (CY)** : €6,5M
-- **Profit annuel (CY)** : €1,1M (marge de profit de 16,3 %)
-- **Total des clients** : 17 000
-- **Remise totale** : €7,33K
+- Annual sales (CY)**: €6.5M
+- Annual profit (CY)**: €1.1M (16.3% profit margin)
+- Total customers**: 17,000
+- Total discount**: €7.33K
 
-### Ventes par catégorie :
-- **Soins du corps** : €2,7M
-- **Maison et accessoires** : €1,2M
-- **Maquillage** : €1,1M
-- **Soins des cheveux** : €1,0M
-- **Soins du visage** : €0,4M
+### Sales by category:
+- Body care**: €2.7M
+- Home & Accessories**: €1.2M
+- Make-up**: €1.1M
+- Haircare**: €1.0M
+- Facial care**: €0.4M
 
-### Ventes par marché :
-- **Asie-Pacifique** : €1,8M
-- **Europe** : €1,5M
-- **USCA (États-Unis et Canada)** : €1,4M
-- **LATAM (Amérique latine)** : €1,3M
-- **Afrique** : €0,5M
+### Sales by market:
+- Asia-Pacific**: €1.8M
+- Europe**: €1.5M
+- USCA (United States and Canada)**: €1.4M
+- LATAM (Latin America)**: €1.3M
+- Africa**: €0.5M
 
-### Répartition par segment :
-- **Corporate** : 58,9 %
-- **Consommateurs** : 32,9 %
-- **Travailleurs indépendants** : 8,1 %
+### Breakdown by segment:
+- Corporate**: 58.9
+- Consumers**: 32.9
+- Self-employed**: 8.1
 
 ---
 
-## 💡 **Hypothèses et Recommandations**
+## 💡 **Hypotheses and Recommendations
 
-1. **Augmenter les Ventes de Produits Populaires** :
-   - Mettez en avant les produits les plus vendus comme **Herbal Essences Bio** (67,640 € de CA) et **Head & Shoulders** (16,058 € de CA) dans les campagnes promotionnelles pour stimuler les ventes.
+1. **Increase Sales of Popular Products** :
+- Highlight top-selling products such as **Herbal Essences Bio** (€67,640 turnover) and **Head & Shoulders** (€16,058 turnover) in promotional campaigns to boost sales.
 
-2. **Optimisation par marché** :
-   - Développez des stratégies spécifiques aux marchés comme **l'Asie-Pacifique** et **l'Europe** pour renforcer la rentabilité, en particulier en ciblant des produits à forte demande dans ces régions.
+2. **Market-specific optimisation**:
+- Develop specific strategies for markets such as **Asia-Pacific** and **Europe** to boost profitability, in particular by targeting products with high demand in these regions.
 
-3. **Réduction des Remises et Optimisation de la Rentabilité** :
-   - Analysez les produits et pays avec des marges de profit faibles ou négatives pour ajuster les stratégies de remise et accroître la rentabilité globale.
-
+3. **Reduce Discounts and Optimise Profitability**:
+- Analyse products and countries with low or negative profit margins to adjust discount strategies and increase overall profitability.
 
  </p>
 
