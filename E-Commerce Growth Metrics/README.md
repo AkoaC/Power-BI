@@ -4,6 +4,14 @@
 
 ![image](https://github.com/user-attachments/assets/15c64cf5-25c3-4125-90c4-638bae8830ad)
 
+![image](https://github.com/user-attachments/assets/ab61eb19-44c5-4613-b2cb-4abd832afa96)
+
+![image](https://github.com/user-attachments/assets/693d689a-437a-4fa1-91ad-096cc0395e4f)
+
+![image](https://github.com/user-attachments/assets/f36cb9d7-8183-44b7-9cb8-d78a0f0139e7)
+
+![image](https://github.com/user-attachments/assets/dcc6e245-4d74-42cd-9cb3-fbce6b0aff21)
+
 
 ## **Key figures**
 
