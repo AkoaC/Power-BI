@@ -65,7 +65,7 @@ Technologies used :
 	- Excel/CSV: Data storage and manipulation.
 	- Python: Pre-processing of data for import into Power BI.
 
-Conclusion
+# Conclusion
 
 This project provides an interactive dashboard and strategic KPIs to help measure and improve diversity and inclusion in an organisation. Thanks to this in-depth analysis, the company will be able to better understand the challenges linked to gender balance and put in place targeted actions to achieve a more inclusive and equitable environment.
 
