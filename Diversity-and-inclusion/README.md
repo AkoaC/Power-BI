@@ -1,4 +1,4 @@
-##  Diversity and Inclusion Dashboard 
+#  Diversity and Inclusion Dashboard 
 
 Welcome to this diversity and inclusion analysis project using Power BI. This interactive dashboard was designed in response to a challenge faced by a company in the telecommunications sector: improving gender balance at executive management level and promoting an inclusive working environment.
 
@@ -65,7 +65,7 @@ Technologies used :
 	- Excel/CSV: Data storage and manipulation.
 	- Python: Pre-processing of data for import into Power BI.
 
-# Conclusion
+<h2>  Conclusion </h2>
 
 This project provides an interactive dashboard and strategic KPIs to help measure and improve diversity and inclusion in an organisation. Thanks to this in-depth analysis, the company will be able to better understand the challenges linked to gender balance and put in place targeted actions to achieve a more inclusive and equitable environment.
 
