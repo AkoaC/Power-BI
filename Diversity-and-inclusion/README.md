@@ -62,8 +62,8 @@ Performance is broadly equivalent between men and women, which is a good sign of
 Technologies used :
 
  - Power BI: Creation of interactive dashboards and visualisations.
-	- Excel/CSV: Data storage and manipulation.
-	- Python: Pre-processing of data for import into Power BI.
+ - Excel/CSV: Data storage and manipulation.
+ - Python: Pre-processing of data for import into Power BI.
 
 <h2>  Conclusion </h2>
 
