@@ -16,6 +16,10 @@ Although the company has a number of initiatives in place to promote diversity a
 1.	Analyse demographic data to measure diversity within the company.
 2.	Assess recruitment, promotion and rotation processes to identify areas for improvement.
 3.	Provide key performance indicators (KPIs) to support strategic decision-making on diversity and inclusion.
+
+
+![Design sans titre](https://github.com/user-attachments/assets/526828f9-962c-44ff-b656-320cd8f41711)
+
  
 <h2> Key Performance Indicators (KPIs) </h2>
 
