@@ -32,7 +32,7 @@ Here are the main indicators calculated and monitored in this project, enabling 
 	- 59% Men (295 employees)
 	- 41% Women (205 employees) </br>
 This highlights an overall imbalance, with a higher proportion of men. The aim is to achieve parity between men and women in the coming years.
-	- Age distribution:
+ Age distribution :
 	- 20-29 years: 24
 	- 30-39 years: 53% (majority group)
 	- 40-49 year olds: 15% (majority group)
@@ -42,23 +42,21 @@ The average age of employees is in the 30-39 bracket, which could influence tale
 
 2. Promotions and Career Growth
 
-	- % of employees promoted (FY21):
+% of employees promoted (FY21) :
 	- 24.88% of women were promoted.
 	- 17.29% of men were promoted. </br>
-This shows a higher promotion rate for women, which is a positive indicator of efforts to reduce gender gaps in career opportunities.
-	- % of women promoted: Particular attention has been paid to the promotion of women, with efforts to break the glass ceiling at management level.
+This shows a higher promotion rate for women, which is a positive indicator of efforts to reduce gender gaps in career opportunities. </br>
+% of women promoted : Particular attention has been paid to the promotion of women, with efforts to break the glass ceiling at management level.
 
 
 3.  Staff turnover
-
-	- Turnover rate :
 	- 50% turnover among employees aged 50-59.</br>
-The high attrition rate in this age group requires appropriate retention measures to maintain expertise within the organisation.
+The high attrition rate in this age group requires appropriate retention measures to maintain expertise within the organisation. 
 	- Turnover by department: The departments with the highest turnover rates include finance and strategy, indicating that these departments need to be particularly monitored to avoid the loss of critical talent.
 
 4. Employee performance
 
-	- Average performance score FY20 :
+	Average performance score FY20 :
 	- Women: 2.42
 	- Men: 2.41 </br>
 Performance is broadly equivalent between men and women, which is a good sign of fairness in employee appraisal.
