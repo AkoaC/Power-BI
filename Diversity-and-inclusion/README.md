@@ -17,9 +17,6 @@ Although the company has a number of initiatives in place to promote diversity a
 2.	Assess recruitment, promotion and rotation processes to identify areas for improvement.
 3.	Provide key performance indicators (KPIs) to support strategic decision-making on diversity and inclusion.
 
-
-![Design sans titre](https://github.com/user-attachments/assets/526828f9-962c-44ff-b656-320cd8f41711)
-
  
 <h2> Key Performance Indicators (KPIs) </h2>
 
@@ -79,6 +76,6 @@ Technologies used :
 
 This project provides an interactive dashboard and strategic KPIs to help measure and improve diversity and inclusion in an organisation. Thanks to this in-depth analysis, the company will be able to better understand the challenges linked to gender balance and put in place targeted actions to achieve a more inclusive and equitable environment.
 
-
+![Design sans titre](https://github.com/user-attachments/assets/526828f9-962c-44ff-b656-320cd8f41711)
 
 
