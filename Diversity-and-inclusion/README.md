@@ -65,15 +65,15 @@ Performance is broadly equivalent between men and women, which is a good sign of
 
 Deliverables:
  
-- File: dashboard/diversity_dashboard.pbix.
-- PDF report: diversity_dashboard.pdf
+- File : diversity_dashboard.pbix.
+- PDF report : diversity_dashboard.pdf
 - Certificate of completion Power BI from PwC Switzerland
 
 Technologies used :
 
- - Power BI: Creation of interactive dashboards and visualisations.
- - Excel/CSV: Data storage and manipulation.
- - Python: Pre-processing of data for import into Power BI.
+ - Power BI : Creation of interactive dashboards and visualisations.
+ - Excel : Data storage and manipulation.
+ - Python : Pre-processing of data for import into Power BI.
 
 <h2>  Conclusion </h2>
 
