@@ -37,7 +37,7 @@ This highlights an overall imbalance, with a higher proportion of men. The aim i
 	- 30-39 years: 53% (majority group)
 	- 40-49 year olds: 15% (majority group)
 	- 50-59 year olds: 7% (majority group)
-	- 60-69 years old: 1%.
+	- 60-69 years old: 1%. </br>
 The average age of employees is in the 30-39 bracket, which could influence talent management and promotions.
 
 2. Promotions and Career Growth
