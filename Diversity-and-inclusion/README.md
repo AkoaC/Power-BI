@@ -63,6 +63,12 @@ The high attrition rate in this age group requires appropriate retention measure
 	- Men: 2.41
 Performance is broadly equivalent between men and women, which is a good sign of fairness in employee appraisal.
 
+Deliverables:
+ 
+- File: dashboard/diversity_dashboard.pbix.
+- PDF report: diversity_dashboard.pdf
+- Certificate of completion Power BI from PwC Switzerland
+
 Technologies used :
 
  - Power BI: Creation of interactive dashboards and visualisations.
@@ -72,4 +78,7 @@ Technologies used :
 <h2>  Conclusion </h2>
 
 This project provides an interactive dashboard and strategic KPIs to help measure and improve diversity and inclusion in an organisation. Thanks to this in-depth analysis, the company will be able to better understand the challenges linked to gender balance and put in place targeted actions to achieve a more inclusive and equitable environment.
+
+
+
 
